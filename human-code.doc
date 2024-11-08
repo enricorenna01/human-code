@@ -1,0 +1,52 @@
+ORDINARE UNA PIZZA
+Tu non hai fame?!
+Dopo una lunga giornata passata al pc, ho proprio voglia di concedermi una bella pizza succulenta!
+Sì, ma quale? Fammi dare un occhio al listino… Va beh, è inutile, tanto alla fine ordino sempre la stessa: una classica prosciutto e funghi.
+La pizza arriva ancora fumante, chissà se riuscirò a mangiarla tutta!
+Di sicuro se ne avanzo una fetta devo ricordarmi di metterla in frigo, non come l’ultima volta!
+
+
+
+
+SE ho fame:
+    -decido di ordinare una pizza
+
+    Prendo lo smartphone
+    Apro l'applicazione delivery
+    Scelgo una pizzeria
+    Guardo la lista di pizze che propone la pizzeria
+    Scelgo una pizza dalla lista
+
+    SE la pizza scelta mi piace:
+        -seleziono la pizza scelta
+
+    ALTRIMENTI:
+        -scelgo un'altra pizza
+    
+    Vado al carrello
+    Inserisco i dati della mia posizione attuale
+    Imposto metodo di pagamento
+    Confermo ordine
+    Ritiro ordine
+    Vado in cucina
+    Apro la confezione
+    Inizio a mangiare
+
+    SE sono sazio:
+        -smetto di mangiare
+
+        SE la pizza è avanzata:
+            -chiudo la confezione
+            -apro il frigo
+            -metto la pizza dentro al frigo
+            -chiudo il frigo
+
+        ALTRIMENTI:
+            -butto la confezione
+            -pulisco
+
+    ALTRIMENTI:
+        -continuo a mangiare
+
+ALTRIMENTI:
+    -decido di non ordinare
